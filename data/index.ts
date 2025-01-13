@@ -102,7 +102,7 @@ export const skills = [
   {
     id: 3,
     category: "Back-end Development",
-    details: ["Node.js", "Express.js", "FastAPI", "JWT", "MySQL", "PostgreSQL", "MongoDB", "Spring Boot", "H2", "RESTful APIs", "Postman",],
+    details: ["Node.js", "Express.js", "FastAPI", "JWT", "MySQL", "PostgreSQL", "MongoDB", "Spring Boot",],
   },
   {
     id: 4,
@@ -112,12 +112,12 @@ export const skills = [
   {
     id: 5,
     category: "Tools & Platforms",
-    details: ["Figma", "Slack", "JIRA", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
+    details: ["Postman", "Figma", "Slack", "JIRA", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
   },
   {
     id: 6,
     category: "DevOps & Cloud",
-    details: ["AWS", "Firebase", "Docker" , "Kubernetes", "PuTTY SSH", "CI/CD Pipelines", "Git", "GitHub", "GitHub Actions", "Agile", "Scrum"],
+    details: ["AWS", "Firebase", "Docker", "Kubernetes", "PuTTY SSH", "CI/CD Pipelines", "Git", "GitHub", "GitHub Actions", "Agile", "Scrum"],
   },
   {
     id: 7,
@@ -127,7 +127,7 @@ export const skills = [
   {
     id: 8,
     category: "Other Skills",
-    details: ["Linux", "Shell Programming", "Arduino", "Microsoft Clarity", "Google Analytics", "DevTools", "Product Management"],
+    details: ["RESTful APIs", "Linux", "Shell Programming", "Arduino", "Microsoft Clarity", "Google Analytics", "DevTools", "Product Management"],
   },
 ];
 
