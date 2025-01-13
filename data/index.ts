@@ -75,7 +75,7 @@ export const projects = [
     title: "Unity Books - Online Book Store",
     des: "The one-stop platform for reading and personal development.",
     img: "/p1.jpg",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/nodejs.svg", "/mysql.svg"],
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/nodejs.svg", "/mysql.svg"],
     link: "https://unitybooks.in",
   },
   {
